@@ -2,7 +2,7 @@
 
 This project uses the MSP430FR2355 microcontroller.
 It is an example of bare metal programming that uses register manipulation to achieve several goals:
-1. Control the spinning direction and speed of a DC motor
+1. Control the spinning direction and speed of a DC motor (The motor is attached to a motor drive shaft that spins a music box)
 2. Control two servo motors that move along X and Y axis 
 3. Provide a basic interface via menu and keyboard selection for controlling the motors.
  
