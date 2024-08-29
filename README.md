@@ -13,10 +13,10 @@ Features of the program:
 4. Menu System: Provides a command menu for interacting with the system.
 
 Pin Configuration
-P1.0: LED indicator.
-P2.0, P2.1: PWM outputs for servo motors (CCR1 & CCR2).
-P1.6, P1.7: PWM outputs for DC motor control.
-P4.2, P4.3: UART pins for communication (UCA0 & UCA1).
+1. P1.0: LED indicator.
+2. P2.0, P2.1: PWM outputs for servo motors (CCR1 & CCR2).
+3. P1.6, P1.7: PWM outputs for DC motor control.
+4. P4.2, P4.3: UART pins for communication (UCA0 & UCA1).
 
 Timer Configuration
 Timer B0: Configured for servo motor PWM control with a period of 20,000 cycles.
